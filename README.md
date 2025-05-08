@@ -13,7 +13,7 @@ An elegant and interactive To-Do List web application built using **HTML**, **CS
 
 ## 🚀 Demo
 
-Live link: [https://kanchandhanik.github.io/advanced-todo-list](https://kanchandhanik.github.io/advanced-todo-list) *(optional — if deployed)*
+Live link: [https://kanchandhanik.github.io/advanced-todo-list]
 
 ## 🛠️ Technologies Used
 
