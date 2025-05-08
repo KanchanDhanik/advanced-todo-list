@@ -11,10 +11,6 @@ An elegant and interactive To-Do List web application built using **HTML**, **CS
 - 💾 Tasks are saved automatically in browser’s local storage  
 - 📱 Fully responsive UI for all screen sizes  
 
-## 🚀 Demo
-
-Live link: [https://kanchandhanik.github.io/advanced-todo-list]
-
 ## 🛠️ Technologies Used
 
 - HTML5  
